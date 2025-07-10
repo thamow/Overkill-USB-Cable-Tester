@@ -2,6 +2,8 @@
 
 ![USB Tester](./UT_1.png)
 
+[Post on Reddit](https://www.reddit.com/r/PCB/comments/1lwca66/review_request_overkill_usb_tester/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+
 **tl;dr:** Designed my second ever PCB and want some suggestions for potential improvements or problems / errors in my design (PCB not routed yet). See questions down below (last paragraph).
 
 Yes, this design is complete overkill! This PCB is mostly for me to try stuff out and intentionally not cost-optimized. That said, should you see improvements without reducing the feature set, go ahead!
